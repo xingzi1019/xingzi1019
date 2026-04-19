@@ -50,16 +50,6 @@
   <img src="https://img.shields.io/badge/计算机网络-45B7D1?style=for-the-badge"/>
 </p>
 
-
----
-
-## 📂 精选项目
-
-| 项目                                                       | 描述                                               | 技术栈      |
-| ---------------------------------------------------------- | -------------------------------------------------- | ----------- |
-| [My_C-_Code](https://github.com/xingzi1019/My_C-_Code)     | C++ 学习记录与练习代码仓库，涵盖基础语法到进阶特性 | C++         |
-| [cpp-learning](https://github.com/xingzi1019/cpp-learning) | C++ 系统学习仓库，结合 CMake 工程化实践            | C++ / CMake |
-
 ---
 
 ## 📈 GitHub 统计
